@@ -1,22 +1,20 @@
 ﻿// StrawberryX.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+<<<<<<< HEAD
 
 #include <iostream>
 
 #include "glad/glad.h"
 #include "GLFW/glfw3.h"
 #include "stb_image.h"
-
 const char* title = "Hello, world!";
 const int width = 800, height = 600;
 
 void framebuffer_size_callback(GLFWwindow* window, int w, int h)
 {
 	glViewport(0, 0, w, h);
-}
 
 int main(int argc, const char *argv[])
 {
-	// 初始化glfw和opengl并创建窗口
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
@@ -30,7 +28,7 @@ int main(int argc, const char *argv[])
 		return -1;
 	}
 	
-	if (!gladLoadGLLoader(std::reinterpret_cast<GLADloadproc>(glfwGetProcAddress))) 
+	if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress)) 
 	{
 		std::cerr << "初始化glad失败。" << std::endl;
 		glfwTerminate();
