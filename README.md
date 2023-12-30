@@ -1,3 +1,1 @@
-# strawberryx
-
-##
+# StrawberryX
