@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wanao\source\repos\StrawberryX\build\CMakeFiles\2b0435a1742fdede4d2ee06054765a0b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\wanao\source\repos\StrawberryX\CMake\Default.cmake">
+      <Filter>Buildsystem Input Files\CMake</Filter>
+    </None>
+    <None Include="C:\Users\wanao\source\repos\StrawberryX\CMake\DefaultCXX.cmake">
+      <Filter>Buildsystem Input Files\CMake</Filter>
+    </None>
+    <None Include="C:\Users\wanao\source\repos\StrawberryX\CMake\Utils.cmake">
+      <Filter>Buildsystem Input Files\CMake</Filter>
+    </None>
+    <None Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\StrawberryX</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5662E3D7-4B95-3B71-8267-39D17A8BCBEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\CMake">
+      <UniqueIdentifier>{4603D704-A2DA-3671-B6A2-B331E7C80989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\StrawberryX">
+      <UniqueIdentifier>{F815CC33-01D4-3D8E-8E8B-C622B734A289}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\Display.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\ODESolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\Shader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\StrawberryX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\Display.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\ODESolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\Shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wanao\source\repos\StrawberryX\StrawberryX\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{E5B2441E-B5FA-3283-8DE2-359FED04B72A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{CD1B98A2-92F5-3E7B-A244-796B0808C222}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

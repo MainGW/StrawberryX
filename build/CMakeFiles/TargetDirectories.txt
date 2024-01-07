@@ -1,0 +1,3 @@
+C:/Users/wanao/source/repos/StrawberryX/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wanao/source/repos/StrawberryX/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wanao/source/repos/StrawberryX/build/StrawberryX/CMakeFiles/StrawberryX.dir
